@@ -1,4 +1,4 @@
-EpiMapper
+# EpiMapper
 
 Welcome! This repository carries out core analyses and visualizations for exploring the utility of interictal iEEG functional connectivity on predicting outcomes in surgically-treated drug resistant epilepsy patients, using knowledge of the surgical resection zone.
 
